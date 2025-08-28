@@ -1,5 +1,5 @@
 /* Import Lato font from Google Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap");
 
 /* Custom CSS variables for color scheme */
 :root {
@@ -7,42 +7,53 @@
   --primary: #45dfa4;
   --primary-dark: #3bc893;
   --primary-light: #5ce5b1;
-  
+
   /* Accent color - Lavender Pink */
   --accent: #ffafd3;
   --accent-dark: #ff9cc9;
   --accent-light: #ffc2dd;
-  
+
   /* Supporting colors */
-  --background: #ffffff;
-  --text: #2d3748;
-  --text-light: #4a5568;
-  --border: #e2e8f0;
+  --background: #1a1a1a;
+  --text: #ffffff;
+  --text-light: #e2e8f0;
+  --border: #374151;
 }
 
 /* Apply Lato font globally */
 html {
-  font-family: 'Lato', sans-serif !important;
+  font-family: "Lato", sans-serif !important;
+  background-color: var(--background) !important;
+  color: var(--text) !important;
 }
 
 body {
-  font-family: 'Lato', sans-serif !important;
+  font-family: "Lato", sans-serif !important;
+  background-color: var(--background) !important;
+  color: var(--text) !important;
 }
 
 /* Override Slidev theme styles */
 .slidev-layout {
-  font-family: 'Lato', sans-serif !important;
+  font-family: "Lato", sans-serif !important;
+  background-color: var(--background) !important;
+  color: var(--text) !important;
 }
 
-/* Headings */
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'Lato', sans-serif !important;
-  color: var(--primary) !important;
+/* Headings - keep default white color */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Lato", sans-serif !important;
+  color: var(--text) !important;
 }
 
 /* Main title styling */
 h1 {
-  color: var(--primary) !important;
+  color: var(--text) !important;
   font-weight: 700 !important;
 }
 
@@ -56,19 +67,22 @@ a:hover {
 }
 
 /* Button styling */
-.btn, button {
+.btn,
+button {
   background-color: var(--primary) !important;
   color: white !important;
   border-color: var(--primary) !important;
 }
 
-.btn:hover, button:hover {
+.btn:hover,
+button:hover {
   background-color: var(--primary-dark) !important;
   border-color: var(--primary-dark) !important;
 }
 
 /* Accent elements */
-.text-accent, .accent {
+.text-accent,
+.accent {
   color: var(--accent) !important;
 }
 
@@ -81,7 +95,8 @@ a:hover {
 }
 
 /* Primary elements */
-.text-primary, .primary {
+.text-primary,
+.primary {
   color: var(--primary) !important;
 }
 
@@ -94,8 +109,9 @@ a:hover {
 }
 
 /* Code blocks and syntax highlighting adjustments */
-pre, code {
-  font-family: 'Fira Code', 'Lato', monospace !important;
+pre,
+code {
+  font-family: "Fira Code", "Lato", monospace !important;
 }
 
 /* Navigation arrows and controls */
@@ -153,7 +169,17 @@ pre, code {
 }
 
 .grid-cols-2 > div:last-child h2 {
-  color: var(--primary) !important;
+  color: var(--text) !important;
+}
+
+/* Ensure all text is white by default */
+p, li, div, span {
+  color: var(--text) !important;
+}
+
+/* Override any theme dark colors */
+.dark {
+  color: var(--text) !important;
 }
 
 /* Strong emphasis styling */
@@ -196,14 +222,43 @@ li {
 
 /* V-clicks animation styling */
 .v-click {
-  transition: opacity 0.3s ease, transform 0.3s ease;
+  transition:
+    opacity 0.3s ease,
+    transform 0.3s ease;
 }
 
 /* Special emphasis for call-to-action elements */
 .slidev-layout li:has(strong) {
-  background: linear-gradient(135deg, rgba(69, 223, 164, 0.1), rgba(255, 175, 211, 0.1));
+  background: linear-gradient(
+    135deg,
+    rgba(69, 223, 164, 0.1),
+    rgba(255, 175, 211, 0.1)
+  );
   padding: 0.75rem;
   border-radius: 8px;
   border-left: 4px solid var(--primary);
   margin: 1rem 0;
+}
+
+/* Override Slidev theme background and text colors */
+.slidev-page {
+  background-color: var(--background) !important;
+  color: var(--text) !important;
+}
+
+/* Override any existing color classes from theme */
+.text-gray-400,
+.text-gray-500,
+.text-gray-600,
+.text-slate-400,
+.text-slate-500,
+.text-slate-600 {
+  color: var(--text) !important;
+}
+
+/* Make sure slide content area is properly styled */
+.slides-wrapper,
+.slide-container {
+  background-color: var(--background) !important;
+  color: var(--text) !important;
 }
