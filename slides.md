@@ -1,6 +1,5 @@
 ---
-theme: seriph
-background: https://cover.sli.dev
+theme: apple-basic
 title: Agency to SaaS Playbook
 info: |
   ## Agency to SaaS Playbook
@@ -17,28 +16,34 @@ seoMeta:
   ogImage: auto
 ---
 
-# Agency to SaaS Playbook
-
-**The practical playbook used by 10+ agencies**
-
-Turn your hard-won expertise into a real asset
-
-<div @click="$slidev.nav.next" class="mt-12 py-1" hover:bg="white op-10">
-  Press Space to begin <carbon:arrow-right />
-</div>
-
-<!--
-Welcome to the Agency to SaaS Playbook - a comprehensive guide for agency owners looking to transform their service-based business into a scalable SaaS product.
--->
+# Introduction: The Agency Trap & Our Story
 
 ---
-src: ./pages/01-hook-intro.md
+src: ./pages/introduction/01-hook-intro.md
 ---
-src: ./pages/02-origin-story.md
+src: ./pages/introduction/02-origin-story.md
 ---
-src: ./pages/03-strategy.md
+
+# Part 1: Why Agency Owners Make the Best SaaS Founders
+
 ---
-src: ./pages/04-sell-why-bother.md
+src: ./pages/part1-why-agencies/03-strategy.md
+---
+src: ./pages/part1-why-agencies/04-sell-why-bother.md
+---
+
+# Part 2: Tactics
+
+---
+src: ./pages/part2-tactics/00-pre-fit.md
+---
+src: ./pages/part2-tactics/05-problem-mining.md
+---
+src: ./pages/part2-tactics/validation.md
+---
+src: ./pages/part2-tactics/development.md
+---
+src: ./pages/part2-tactics/launch.md
 ---
 
 layout: center
