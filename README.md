@@ -1,4 +1,8 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Agency to SaaS Playbook
+
+A [Slidev](https://github.com/slidevjs/slidev) presentation for our YouTube video covering the agency-to-saas transformation strategy.
+
+## Getting Started
 
 To start the slide show:
 
