@@ -21,29 +21,39 @@ seoMeta:
 ---
 src: ./pages/introduction/01-hook-intro.md
 ---
-src: ./pages/introduction/02-origin-story.md
+---
+src: ./pages/introduction/02-sell-why-bother.md
+---
+---
+src: ./pages/introduction/03-strategy.md
+---
+---
+src: ./pages/part1-why-agencies/01-origin-story.md
 ---
 
-# Part 1: Why Agency Owners Make the Best SaaS Founders
-
 ---
-src: ./pages/part1-why-agencies/03-strategy.md
+src: ./pages/part2-tactics/01-pre-fit.md
 ---
-src: ./pages/part1-why-agencies/04-sell-why-bother.md
 ---
-
-# Part 2: Tactics
-
+src: ./pages/part2-tactics/02-problem-mining.md
 ---
-src: ./pages/part2-tactics/00-pre-fit.md
 ---
-src: ./pages/part2-tactics/05-problem-mining.md
+src: ./pages/part2-tactics/03-validation.md
 ---
-src: ./pages/part2-tactics/validation.md
 ---
-src: ./pages/part2-tactics/development.md
+src: ./pages/part2-tactics/04-development.md
 ---
-src: ./pages/part2-tactics/launch.md
+---
+src: ./pages/part2-tactics/05-launch.md
+---
+---
+src: ./pages/part2-tactics/06-funding.md
+---
+---
+src: ./pages/part2-tactics/07-focus-decision.md
+---
+---
+src: ./pages/part2-tactics/08-tldr.md
 ---
 
 layout: center
@@ -51,12 +61,12 @@ class: text-center
 
 ---
 
-# Thank You
+# How to start?
 
-Questions?
+- You're an idea man
+- Start researching
+- Find someone with experience in SaaS
 
-<div class="mt-8">
-  <div class="text-sm opacity-75">
-    Agency to SaaS Playbook
-  </div>
-</div>
+---
+
+Your competitors are already exploring SaaS solutions. The agencies that act first will dominate their markets while others struggle with manual processes and shrinking margins.

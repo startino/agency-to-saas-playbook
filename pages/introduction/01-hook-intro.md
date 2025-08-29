@@ -1,3 +1,4 @@
+
 <v-clicks>
 
 - Why, after years of running your successful agency, are you still necessary to move the needle and keep things afloat?
@@ -14,11 +15,11 @@
 <v-clicks>
 
 - Too founder dependent
-- No passive income
+- No recurring revenue
 - Tight margins
-- Revenue plateauing
+- Revenue plateaus
 - Quality vs delegating
-- Sell for pennies
+- Exit for pennies
 
 </v-clicks>
 
@@ -42,5 +43,5 @@ All these challenges aren’t your fault. Those are all classic effects of the a
 
 At your scale, it rewards firefighting and profit optimization, not growth.
 
-The playbook I’m going to go over in the next 30 minutes is how the agency owners of today will live a life of freedom, work a job of passion, and build something of real value within a few years time. This is the same playbook that over 10 agency founders used to completely change their lives — and we’re going to steal it.
+
 -->

@@ -150,8 +150,10 @@ This isn't a crystal-ball, but it's a start to 1. know if there's legs 2. establ
 
 <v-clicks>
 
-- Price = Value you provide / 5 || Their current annual spending on related tools
-- Revenue = Target Customers × Price × Market Penetration %
+- Step 1: Calculate Price = Value you provide / 5
+- Step 2: Calculate Revenue = Target Customers × Price × Market Penetration %
+
+</v-clicks>
 
 <v-clicks>
 
@@ -401,10 +403,6 @@ Wrong questions, wrong people.
 <v-clicks>
 
 - **Hypothesis**: People will pay for a platform to find better accommodations with less time
-- **Network survey**: Validated existing solutions weren't cutting it
-- **Time value discovery**: ~30min/mo → $15/mo → $180/yr cost
-- **Revised pricing**: $36/yr we could charge
-- **New revenue potential**: $50.5M ARR
 
 </v-clicks>
 
@@ -429,14 +427,14 @@ Wrong questions, wrong people.
 
 - **What we skipped**: Direct customer conversations
 - **Misled by**: Cheap questionnaire + personal bias
-- **The reality**: Interviewed a tiny niche within the niche
+- Interviewed a tiny niche within the niche
 - **Discovery timing**: Only after building the MVP
 
 </v-clicks>
 
 ---
 
-# The Pivot Point Revelation
+# Why aren't we rolling in the dough?
 
 <v-clicks>
 
@@ -462,41 +460,27 @@ Wrong questions, wrong people.
 
 ---
 
-# Case Study: Content Snare — Validation Done Right
+# Content Snare — Validation Done Right
 
 <v-clicks>
 
-- **The most text-book example of successful validation**
-- *(not to say validation that proves your idea is bad isn't successful)*
-- **Problem**: Content collection was the primary operational challenge for agencies
-- **Founder**: James Rose
+    1. 15+ web design agencies interviewed about processes and bottlenecks
+    2. Identified content collection as their primary challenge
+    3. Not website briefing as initially assumed
 
 </v-clicks>
 
 ---
 
-# Content Snare: The Process
+# A step further
 
 <v-clicks>
 
-1. **Customer Interviews**: 15+ web design agencies interviewed about processes and bottlenecks
-2. **Key Discovery**: Almost every agency identified content collection as their primary challenge (not website briefing as initially assumed)
-3. **Landing Page**: Simple WordPress page requesting emails in exchange for launch discount
-4. **Community Engagement**: Active participation in Facebook groups, direct outreach to web designers
-5. **Email List**: Accumulated "a few hundred" potential customers before development
-
-</v-clicks>
-
----
-
-# Content Snare: The Pre-sell Validation
-
-<v-clicks>
-
-- **Pre-sell Campaign**: Full year access + beta access at extremely discounted price
-- **Result**: 25 spots sold out in **2 hours**
-- **Confidence Signal**: Immediate sellout proved they were solving a real problem people would pay for
-- **Perfect validation**: Real money changing hands before product existed
+    1. Simple website requesting emails in exchange for discounts
+    2. Active in Facebook groups + direct outreach to web designers
+    3. Pre-sell campaign
+    4. 25 spots sold out in 2 hours
+    5. Perfect validation: Real money changing hands before product existed 
 
 </v-clicks>
 

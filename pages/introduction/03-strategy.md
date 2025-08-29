@@ -1,12 +1,12 @@
-# 1. Strategy (High-Level)
+# Birds eye view
 
 <v-clicks>
 
-- Start with a proven, repeat pain
-- Build for your own use first
-- Test with existing clients
-- Maintain agency revenue while SaaS grows
-- Leverage agency reputation & resources
+1. Start with a proven, repeat pain
+2. Build for your own use first
+3. Test with existing clients
+4. Maintain agency revenue while SaaS grows
+5. Leverage agency reputation & resources
 
 </v-clicks>
 

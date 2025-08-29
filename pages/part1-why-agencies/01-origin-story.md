@@ -1,15 +1,11 @@
-# 0. Origin Story
+# Who am I?
 
 <v-clicks>
 
-- Who am I to teach Agency→SaaS?
-- Ran AI SaaS dev/consulting for 1+ year
-- Clients (9–5ers) lacked founder traits
+- 2 Years ago I started an AI SaaS development agency
 - Built great products → went nowhere
-- Paused 6 months: learn SaaS success + GTM
-- Mailchimp story clicked: agencies make best SaaS founders
-- Found David Hart; AI timing = urgent
-- Weeks of deep dives → built the Playbook
+- Spent 6 months learning SaaS success + GTM
+- Found the Mailchimp story
 
 </v-clicks>
 
