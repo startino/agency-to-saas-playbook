@@ -1,4 +1,3 @@
-
 <v-clicks>
 
 - Why, after years of running your successful agency, are you still necessary to move the needle and keep things afloat?
@@ -24,24 +23,10 @@
 </v-clicks>
 
 <!--
-Why, after years of running your agency are you still necessary in almost every process?
-
-Are you constantly in firefighting mode and having to work 60 hour weeks? And all of that to be left with enough profits to pay yourself what you would’ve gotten paid at a bigger firm.
-
-Is growth inevitable? Or do you feel stuck in the endless treadmill of winning the work, doing the work, and immediately replacing the work? Do the dry months help you sleep at night?
-
-And why, even as a battle-tested agency founder who runs a 6-7 figure agency, is the value of your successful agency just enough to pay your mortgage?
-
-All these challenges aren’t your fault. Those are all classic effects of the agency model
-
-- Too founder dependent; still working 60hr weeks after _years_ of running an agency.
-- No passive income; endless treadmill of winning the work, doing the work and immediately replacing the work you just finished; do the dry months help you sleep at night?
-- Tight margins; salaries rising and prices falling; you could make more of a salary from a job at a bigger firm
-- Revenue plateauing; scaling means more mouths to feed, more overhead, more headache.
-- Scared to delegate from fear of quality dropping? or is your profit-line even able to take that hit?
-- Years building a 6-7 figure agency yet it will only sell for 2-4x of your yearly profit.
+- proof: try selling, 2-5 year earn-out
+- maybe retainers or productized services. cant expect in a year and how much of your revenue is coming from that?
+- 1/3/7
+- $3M/yr agency sells for $3-6M, taxes -> $1-4M, divide by founders. worth your years of hard work?
 
 At your scale, it rewards firefighting and profit optimization, not growth.
-
-
 -->

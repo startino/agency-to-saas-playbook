@@ -14,22 +14,16 @@
 layout: two-cols
 ---
 
-::left::
-
-<div style="padding-right: 3rem;">
-
 # Why agency founders?
 
 <v-clicks>
 
-- David Hart: "If I were a betting man, I’d bet on the former founders of an agency before I’d bet on a couple of bright
+- David Hart: "If I were a betting man, I'd bet on the former founders of an agency before I'd bet on a couple of bright
 guys fresh out of McKinseys."
 - domain, resources, no desperation, network, reputation, scars, swiss-army skillset, sales, IP, first customers, capital efficiency
 - This is why we aren't building our own SaaS
 
 </v-clicks>
-
-</div>
 
 ::right::
 

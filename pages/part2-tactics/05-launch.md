@@ -1,4 +1,4 @@
-# 0 → 10 Evangelists
+# 4) 0 → 10 Evangelists
 
 <v-clicks>
 
@@ -17,7 +17,7 @@ they'll be the catalyst to the flywheel that's bound to come your way.
 
 ---
 
-# Monetization
+## 5) Monetization
 
 <v-clicks>
 
@@ -30,7 +30,7 @@ they'll be the catalyst to the flywheel that's bound to come your way.
 
 ---
 
-# GTM Engine
+## 6) GTM Engine
 
 <v-clicks>
 

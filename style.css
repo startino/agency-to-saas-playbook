@@ -69,3 +69,22 @@ button:hover {
 .border-primary {
   border-color: var(--primary) !important;
 }
+
+/* Ensure numbered lists are visible */
+ol {
+  list-style-type: decimal !important;
+  padding-left: 1.5em !important;
+}
+
+ol li {
+  list-style-type: decimal !important;
+}
+
+/* Ensure list numbers are visible in all contexts */
+.slidev-layout ol {
+  list-style-type: decimal !important;
+}
+
+.slidev-layout ul {
+  list-style-type: disc !important;
+}

@@ -1,4 +1,4 @@
-# 4) MVP
+# 3) MVP
 
 Build the *smallest* thing that kills the worst blocker.
 
@@ -9,6 +9,10 @@ Build the *smallest* thing that kills the worst blocker.
 - Content Snare: "We rolled too many things into the first version which blew out our development budget. We spent way too much on our MVP"
 
 </v-clicks>
+
+<!--
+"but I don't code and don't have a developer"
+-->
 
 ---
 

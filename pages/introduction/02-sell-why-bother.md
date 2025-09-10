@@ -1,22 +1,20 @@
 
 <v-clicks>
 
-- Ben Chestnut (Mailchimp): $500k → $5B
-- Jason Fried (Basecamp): $1M → $40M  
-- Kyle Racki (Proposify): $500k → $10M
-- James Rose (Content Snare): $250k → $5M
+| Founder | Years Ago | Now |
+|---------|--------------------------|------------------|
+| Ben Chestnut (Mailchimp) | $500k | $5B |
+| Jason Fried (Basecamp) | $1M | $40M |
+| Kyle Racki (Proposify) | $500k | $10M |
+| James Rose (Content Snare) | $250k | $5M |
 
 </v-clicks>
 
----
+<!--
+Common thread?
 
-# Common thread?
-
-<v-clicks>
-
-Agency → SaaS
-
-</v-clicks>
+Easily 10xed their net-worth
+-->
 
 ---
 
@@ -27,6 +25,14 @@ Agency → SaaS
 - Sell competence, not time
 
 </v-clicks>
+
+<!--
+
+you can work 60hrs if you want
+
+asset, not hours
+
+-->
 
 ---
 
@@ -42,9 +48,7 @@ Agency → SaaS
 
 <!--
 
-The playbook I’m going to go over in the next 30 minutes is how the agency owners of today will live a life of freedom, work a job of passion, and build something of real value. This is the same playbook that over 10 agency founders used to leverage their agency and completely change their lives — and we’re going to steal it.
-
-You might be thinking "but I do it better", but how long will that last?
+but I do it better, but how long will that last?
 
 In two years, the only agencies left standing will be those offering clients their own proprietary SaaS tools. Everyone else will become a reseller for someone else's software.
 

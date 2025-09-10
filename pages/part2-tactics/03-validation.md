@@ -1,4 +1,4 @@
-# Validation
+# 2) Validation
 
 <v-clicks>
 
@@ -410,38 +410,66 @@ Wrong questions, wrong people.
 
 # Survey Results
 
+<div class="grid grid-cols-4 gap-4">
+
+<div>
+
+![Problems with booking platforms](/images/problems-with-booking-platforms.png)
+
+</div>
+
+<div>
+
+![Better options available](/images/better-options.png)
+
+</div>
+
+<div>
+
+![Search duration](/images/search-duration.png)
+
+</div>
+
+<div>
+
+![Stay duration](/images/stay-duration.png)
+
+</div>
+
+</div>
+
 <v-clicks>
 
-- **Existing solutions failing**: Survey confirmed current platforms inadequate
-- **Value quantification**: Clear time and stress costs identified
-- **"Better accommodations" validation**: Soft confirmation of quality gap
-- **[Survey charts placeholder - coming soon]**
+- **Pain confirmed**: Current solutions inadequate for quality accommodation discovery
+- **Time spent**: Average person spends 30 mins searching for accommodations for mediocre results
+- **Stay patterns**: Majority stay 2-4 weeks
+- **Actual Revenue Potential**: $50.5M ARR ~~$202M ARR~~
+- $2.5M @ 5% market penetration
 
 </v-clicks>
 
 ---
 
-# Why aren't we rolling in the dough?
+# What went wrong
 
 <v-clicks>
 
 - **What we skipped**: Direct customer conversations
 - **Misled by**: Cheap questionnaire + personal bias
 - Interviewed a tiny niche within the niche
-- **Discovery timing**: Only after building the MVP
+- Built MVP based on misleading survey
 
 </v-clicks>
 
 ---
 
-# Why aren't we rolling in the dough?
-
+# What we went wrong
 <v-clicks>
 
 - **B2C vs B2B insight**: Most prospects saw accommodation as personal expense, not business
 - **Our rule**: Only B2B
 - **Market reality**: Wrong customer segment targeted
-- **Viable market**: ~$10M/yr
+- **Viable market**: ~$50M/yr
 
 </v-clicks>
 

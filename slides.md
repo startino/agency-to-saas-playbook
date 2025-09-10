@@ -9,7 +9,6 @@ info: |
 class: text-center
 drawings:
   persist: false
-transition: slide-left
 mdc: true
 css: style.css
 seoMeta:
